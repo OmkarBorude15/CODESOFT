@@ -2,10 +2,7 @@ import java.io.IOException;
 import java.util.Random;
 import java.util.Scanner;
 
-/*
- * TASK 1: Number Game
- */
-
+//Number Game
 public class task1 {
 
     public static void main(String args[]) throws IOException {
